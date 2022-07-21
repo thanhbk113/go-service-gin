@@ -9,4 +9,7 @@ Link package:
             +Github:https://github.com/gin-gonic
             +Document:https://gin-gonic.com/docs/
             
+
+You can refer how to deployment gin in link:https://gin-gonic.com/docs/deployment/
+            
 I just started learning golang and I'm so excited to learn about it
