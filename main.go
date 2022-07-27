@@ -19,5 +19,5 @@ func main() {
 	router.GET("/albums/:id", models.GetAlbumById)
 	router.PUT("/albums/:id", models.UpdateAlbumById)
 	router.DELETE("/albums/:id", models.DeleteAlbums)
-	router.Run("0.0.0.0" + port)
+	router.Run("0.0.0.0:" + port)
 }
